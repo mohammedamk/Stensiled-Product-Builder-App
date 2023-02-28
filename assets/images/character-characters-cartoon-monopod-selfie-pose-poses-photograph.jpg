@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/coffee-pot-clipart.html">COFFEE POT CLIPART</a></li>
+<li><a href="/tiger-face-clipart.html">TIGER FACE CLIPART</a></li>
+<li><a href="/fork-cliparts.html">FORK CLIPARTS</a></li>
+<li><a href="/animated-letters-gif.html">ANIMATED LETTERS GIF</a></li>
+<li><a href="/beast-cliparts.html">BEAST CLIPARTS</a></li>
+<li><a href="/alien-cliparts.html">ALIEN CLIPARTS</a></li>
+<li><a href="/retro-apron-cliparts.html">RETRO APRON CLIPARTS</a></li>
+<li><a href="/hats.html">HATS</a></li>
+<li><a href="/tick-symbol.html">TICK SYMBOL</a></li>
+<li><a href="/hearts-cross-cliparts.html">HEARTS CROSS CLIPARTS</a></li>
+<li><a href="/drawings-cliparts.html">DRAWINGS CLIPARTS</a></li>
+<li><a href="/employee-contributions-cliparts.html">EMPLOYEE CONTRIBUTIONS CLIPARTS</a></li>
+<li><a href="/muscle-endurance-cliparts.html">MUSCLE ENDURANCE CLIPARTS</a></li>
+<li><a href="/apple-iphone-png.html">APPLE IPHONE PNG</a></li>
+<li><a href="/picture-of-a-boy.html">PICTURE OF A BOY</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

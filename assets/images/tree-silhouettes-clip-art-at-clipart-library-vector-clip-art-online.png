@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/free-to-use-clipart.html">FREE TO USE CLIPART</a></li>
+<li><a href="/cliparts-of-microorganisms.html">CLIPARTS OF MICROORGANISMS</a></li>
+<li><a href="/soccer-goal-images.html">SOCCER GOAL IMAGES</a></li>
+<li><a href="/leprechaun-cliparts.html">LEPRECHAUN CLIPARTS</a></li>
+<li><a href="/flower-vase-cliparts.html">FLOWER VASE CLIPARTS</a></li>
+<li><a href="/expectations-cliparts.html">EXPECTATIONS CLIPARTS</a></li>
+<li><a href="/child-care-photos.html">CHILD CARE PHOTOS</a></li>
+<li><a href="/hebrew-cliparts.html">HEBREW CLIPARTS</a></li>
+<li><a href="/crying-pictures.html">CRYING PICTURES</a></li>
+<li><a href="/hera-cliparts.html">HERA CLIPARTS</a></li>
+<li><a href="/health-symbol.html">HEALTH SYMBOL</a></li>
+<li><a href="/santa-elf-cliparts.html">SANTA ELF CLIPARTS</a></li>
+<li><a href="/aquarius-png.html">AQUARIUS PNG</a></li>
+<li><a href="/bridal-pictures.html">BRIDAL PICTURES</a></li>
+<li><a href="/cartoon-heart-image.html">CARTOON HEART IMAGE</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

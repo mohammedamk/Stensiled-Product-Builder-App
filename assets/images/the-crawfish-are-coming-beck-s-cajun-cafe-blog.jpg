@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/boys-teeth-cliparts.html">BOYS TEETH CLIPARTS</a></li>
+<li><a href="/hazelnut-cliparts.html">HAZELNUT CLIPARTS</a></li>
+<li><a href="/pulling-weeds-cliparts.html">PULLING WEEDS CLIPARTS</a></li>
+<li><a href="/vintage-calendar-cliparts.html">VINTAGE CALENDAR CLIPARTS</a></li>
+<li><a href="/baby-girl-graphics.html">BABY GIRL GRAPHICS</a></li>
+<li><a href="/name-label-cliparts.html">NAME LABEL CLIPARTS</a></li>
+<li><a href="/pisces-png.html">PISCES PNG</a></li>
+<li><a href="/wetlands-cliparts.html">WETLANDS CLIPARTS</a></li>
+<li><a href="/ls-cliparts.html">LS CLIPARTS</a></li>
+<li><a href="/standing-cliparts.html">STANDING CLIPARTS</a></li>
+<li><a href="/nerd-cliparts.html">NERD CLIPARTS</a></li>
+<li><a href="/ashley-cliparts.html">ASHLEY CLIPARTS</a></li>
+<li><a href="/mickey-head-silhouette.html">MICKEY HEAD SILHOUETTE</a></li>
+<li><a href="/baby-elephant-cliparts.html">BABY ELEPHANT CLIPARTS</a></li>
+<li><a href="/images-of-hot-coffee.html">IMAGES OF HOT COFFEE</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

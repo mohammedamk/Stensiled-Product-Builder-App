@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/student-reflection-cliparts.html">STUDENT REFLECTION CLIPARTS</a></li>
+<li><a href="/camping-graphics.html">CAMPING GRAPHICS</a></li>
+<li><a href="/exit-png.html">EXIT PNG</a></li>
+<li><a href="/tattoo-ideas.html">TATTOO IDEAS</a></li>
+<li><a href="/picnic-ants-cliparts.html">PICNIC ANTS CLIPARTS</a></li>
+<li><a href="/two-boys-in-a-sandbox.html">TWO BOYS IN A SANDBOX</a></li>
+<li><a href="/free-horse-clipart.html">FREE HORSE CLIPART</a></li>
+<li><a href="/shoe-size-cliparts.html">SHOE SIZE CLIPARTS</a></li>
+<li><a href="/picture-of-a-turkey-for-thanksgiving.html">PICTURE OF A TURKEY FOR THANKSGIVING</a></li>
+<li><a href="/nurse-black-cliparts.html">NURSE BLACK CLIPARTS</a></li>
+<li><a href="/christmas-lights-clipart.html">CHRISTMAS LIGHTS CLIPART</a></li>
+<li><a href="/tractor-trailer-tattoos.html">TRACTOR TRAILER TATTOOS</a></li>
+<li><a href="/cartoon-lion-clipart.html">CARTOON LION CLIPART</a></li>
+<li><a href="/blue-sun-cliparts.html">BLUE SUN CLIPARTS</a></li>
+<li><a href="/images-of-football-player.html">IMAGES OF FOOTBALL PLAYER</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

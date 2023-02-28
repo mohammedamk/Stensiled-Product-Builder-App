@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/pictures-of-spicy-food.html">PICTURES OF SPICY FOOD</a></li>
+<li><a href="/cartoon-car-pics.html">CARTOON CAR PICS</a></li>
+<li><a href="/picture-of-bottle-of-wine.html">PICTURE OF BOTTLE OF WINE</a></li>
+<li><a href="/christmas-wreath-picture.html">CHRISTMAS WREATH PICTURE</a></li>
+<li><a href="/sports-border.html">SPORTS BORDER</a></li>
+<li><a href="/picture-of-people-dancing.html">PICTURE OF PEOPLE DANCING</a></li>
+<li><a href="/shelves-cliparts.html">SHELVES CLIPARTS</a></li>
+<li><a href="/uti-cliparts.html">UTI CLIPARTS</a></li>
+<li><a href="/cliparts-burgundy-banner.html">CLIPARTS BURGUNDY BANNER</a></li>
+<li><a href="/animated-graduation-pictures.html">ANIMATED GRADUATION PICTURES</a></li>
+<li><a href="/animated-crying-cliparts.html">ANIMATED CRYING CLIPARTS</a></li>
+<li><a href="/railroad-tracks.html">RAILROAD TRACKS</a></li>
+<li><a href="/boarders.html">BOARDERS</a></li>
+<li><a href="/variables-cliparts.html">VARIABLES CLIPARTS</a></li>
+<li><a href="/cartoon-images-of-christmas.html">CARTOON IMAGES OF CHRISTMAS</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

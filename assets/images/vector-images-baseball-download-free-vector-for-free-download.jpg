@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/world-globe.html">WORLD GLOBE</a></li>
+<li><a href="/cartoon-cows-images.html">CARTOON COWS IMAGES</a></li>
+<li><a href="/borders-for-school-projects-on-paper.html">BORDERS FOR SCHOOL PROJECTS ON PAPER</a></li>
+<li><a href="/blue-cheerleader-cliparts.html">BLUE CHEERLEADER CLIPARTS</a></li>
+<li><a href="/vomit-smiley-face.html">VOMIT SMILEY FACE</a></li>
+<li><a href="/a-boy.html">A BOY</a></li>
+<li><a href="/droplet-cliparts.html">DROPLET CLIPARTS</a></li>
+<li><a href="/pics-of-calendars.html">PICS OF CALENDARS</a></li>
+<li><a href="/comic-book-clipart.html">COMIC BOOK CLIPART</a></li>
+<li><a href="/pics-of-cartoon-butterflies.html">PICS OF CARTOON BUTTERFLIES</a></li>
+<li><a href="/grimace-pictures.html">GRIMACE PICTURES</a></li>
+<li><a href="/hair-style-cliparts.html">HAIR STYLE CLIPARTS</a></li>
+<li><a href="/simple-tree-cliparts.html">SIMPLE TREE CLIPARTS</a></li>
+<li><a href="/fireworks-free-clipart.html">FIREWORKS FREE CLIPART</a></li>
+<li><a href="/images-of-family-members.html">IMAGES OF FAMILY MEMBERS</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

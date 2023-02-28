@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/angel-pictures-art.html">ANGEL PICTURES ART</a></li>
+<li><a href="/house-banner-cliparts.html">HOUSE BANNER CLIPARTS</a></li>
+<li><a href="/oak-tree-cartoon.html">OAK TREE CARTOON</a></li>
+<li><a href="/white-makeup-cliparts.html">WHITE MAKEUP CLIPARTS</a></li>
+<li><a href="/jenny-cliparts.html">JENNY CLIPARTS</a></li>
+<li><a href="/cartoon-runner.html">CARTOON RUNNER</a></li>
+<li><a href="/mythology-cliparts.html">MYTHOLOGY CLIPARTS</a></li>
+<li><a href="/pen-and-paper-clipart.html">PEN AND PAPER CLIPART</a></li>
+<li><a href="/graphic-design-flower-patterns.html">GRAPHIC DESIGN FLOWER PATTERNS</a></li>
+<li><a href="/basket-cliparts.html">BASKET CLIPARTS</a></li>
+<li><a href="/happy-symbols.html">HAPPY SYMBOLS</a></li>
+<li><a href="/christmas-snowman-clipart.html">CHRISTMAS SNOWMAN CLIPART</a></li>
+<li><a href="/african-american-family-clipart.html">AFRICAN AMERICAN FAMILY CLIPART</a></li>
+<li><a href="/mustang-mascot-logo.html">MUSTANG MASCOT LOGO</a></li>
+<li><a href="/hand-outline-cliparts.html">HAND OUTLINE CLIPARTS</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

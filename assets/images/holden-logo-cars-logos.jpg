@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/sick-cliparts-words.html">SICK CLIPARTS WORDS</a></li>
+<li><a href="/coffee-shop-cliparts.html">COFFEE SHOP CLIPARTS</a></li>
+<li><a href="/science9.html">SCIENCE9</a></li>
+<li><a href="/scroll-graphics-free.html">SCROLL GRAPHICS FREE</a></li>
+<li><a href="/koala-valentine-cliparts.html">KOALA VALENTINE CLIPARTS</a></li>
+<li><a href="/ran-cliparts.html">RAN CLIPARTS</a></li>
+<li><a href="/cartoon-hat.html">CARTOON HAT</a></li>
+<li><a href="/free-candyland-clipart.html">FREE CANDYLAND CLIPART</a></li>
+<li><a href="/coffee-mug-pictures.html">COFFEE MUG PICTURES</a></li>
+<li><a href="/pink-religious-cliparts.html">PINK RELIGIOUS CLIPARTS</a></li>
+<li><a href="/image-of-kangaroo.html">IMAGE OF KANGAROO</a></li>
+<li><a href="/instruments-clipart.html">INSTRUMENTS CLIPART</a></li>
+<li><a href="/wedding-rope-borders.html">WEDDING ROPE BORDERS</a></li>
+<li><a href="/us-cliparts.html">US CLIPARTS</a></li>
+<li><a href="/thanksgiving-bee-cliparts.html">THANKSGIVING BEE CLIPARTS</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

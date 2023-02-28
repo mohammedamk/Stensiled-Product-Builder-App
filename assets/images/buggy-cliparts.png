@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/girl-keyboard-cliparts.html">GIRL KEYBOARD CLIPARTS</a></li>
+<li><a href="/clean-girl-cliparts.html">CLEAN GIRL CLIPARTS</a></li>
+<li><a href="/paw-prints.html">PAW PRINTS</a></li>
+<li><a href="/taekwondo-cliparts.html">TAEKWONDO CLIPARTS</a></li>
+<li><a href="/dirty-world-cliparts.html">DIRTY WORLD CLIPARTS</a></li>
+<li><a href="/picnic-potluck-cliparts.html">PICNIC POTLUCK CLIPARTS</a></li>
+<li><a href="/pic-of-school-bus.html">PIC OF SCHOOL BUS</a></li>
+<li><a href="/baskin-robbin-png.html">BASKIN ROBBIN PNG</a></li>
+<li><a href="/mustache-vector-free.html">MUSTACHE VECTOR FREE</a></li>
+<li><a href="/decorative-frame-cliparts.html">DECORATIVE FRAME CLIPARTS</a></li>
+<li><a href="/dinasaur-cartoon.html">DINASAUR CARTOON</a></li>
+<li><a href="/mary-symbols-cliparts.html">MARY SYMBOLS CLIPARTS</a></li>
+<li><a href="/theatre-free-cliparts.html">THEATRE FREE CLIPARTS</a></li>
+<li><a href="/pussle.html">PUSSLE</a></li>
+<li><a href="/shake-hand-picture.html">SHAKE HAND PICTURE</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>

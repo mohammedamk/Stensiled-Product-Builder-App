@@ -1,0 +1,63 @@
+ 
+<!doctype html>
+<html lang="en">
+<head>
+<title>404 Error</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/style-1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<h1><a href="/">HOME</a></h1>
+		<div class="w3layouts_main_grids">
+			<div class="w3_main_grid_left">
+				<div class="w3l_main_grid">
+					<h2>404</h2>
+				</div>
+				<h3>Oops... page not found!</h3>	
+			</div>
+			<div class="w3_main_grid_right w3_agileits_grid_right">
+<div id="recommended">
+<h2>Popular Clip Arts</h2>
+
+<div class="categories">
+<li><a href="/cliparts-wedding-bridesmaids.html">CLIPARTS WEDDING BRIDESMAIDS</a></li>
+<li><a href="/food-service-pictures.html">FOOD SERVICE PICTURES</a></li>
+<li><a href="/spring-graphics-free.html">SPRING GRAPHICS FREE</a></li>
+<li><a href="/animated-sun-pictures.html">ANIMATED SUN PICTURES</a></li>
+<li><a href="/bark-cliparts.html">BARK CLIPARTS</a></li>
+<li><a href="/free-wheat-vector.html">FREE WHEAT VECTOR</a></li>
+<li><a href="/purple-number-1-cliparts.html">PURPLE NUMBER 1 CLIPARTS</a></li>
+<li><a href="/cup-cake-clipart.html">CUP CAKE CLIPART</a></li>
+<li><a href="/upset-smiley-face.html">UPSET SMILEY FACE</a></li>
+<li><a href="/jump-cliparts.html">JUMP CLIPARTS</a></li>
+<li><a href="/pictures-of-cartoon-rainbows.html">PICTURES OF CARTOON RAINBOWS</a></li>
+<li><a href="/pink-ribbon.html">PINK RIBBON</a></li>
+<li><a href="/student-librarian-cliparts.html">STUDENT LIBRARIAN CLIPARTS</a></li>
+<li><a href="/lazy-reindeer-cliparts.html">LAZY REINDEER CLIPARTS</a></li>
+<li><a href="/cartoon-pictures-of-homes.html">CARTOON PICTURES OF HOMES</a></li>
+
+   </div>
+  </div>
+
+</p>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="agileits_copyright">
+			<p> © 2016 Modern Error Widget</p>
+		</div>
+	</div>
+</body>
+</html>
